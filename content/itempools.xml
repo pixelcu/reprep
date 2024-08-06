@@ -1,0 +1,93 @@
+<ItemPools>
+        <Pool Name = "treasure">
+				<Item Name = "strawberry milk" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+				<Item Name="PROkamikadze" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name="Book of tails" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name = "Cokacola" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+				<Item Name="Leaky Bucket" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name="Pink straw" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name="Pixelated cube" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Dilirium eye" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Delirious tech" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "vacuum" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Rot" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Like" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />				
+				<Item Name = "Friendly Rocks" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Frozen Flies" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />	
+				<Item Name = "Portal D6" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" /> 				
+				
+        </Pool>
+		<Pool Name= "shop">
+		        <Item Name = "Salami" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+				<Item Name="Book of tails" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name="Leaky Bucket" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name="110V" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	    </Pool>
+		<Pool Name= "secret">
+		        <Item Name = "Lost shroom" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+				<Item Name="PRObackstabber" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name = "VHS cassette" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Book of necromancer" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+		</Pool>	
+        <Pool Name="greedShop">               
+				<Item Name="PROkamikadze" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name = "strawberry milk" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+				<Item Name = "Cokacola" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+				<Item Name="Leaky Bucket" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name="110V" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name="Pink straw" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Salami" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+				<Item Name="Book of tails" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name = "Delirious tech" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "vacuum" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name="sandwich" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "VHS cassette" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Rot" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Like" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />	
+				<Item Name = "Friendly Rocks" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />					 
+				<Item Name = "Frozen Flies" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />					 
+        		<Item Name = "Siren Horns" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />
+		        <Item Name = "How To Dig" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />  
+				<Item Name = "Portal D6" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" /> 
+		</Pool>	
+        <Pool Name="library">              
+				<Item Name="Book of tails" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+		        <Item Name = "Book of necromancer" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+		        <Item Name = "How To Dig" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />				
+        </Pool>
+        <Pool Name="greedTreasure"> 
+			    <Item Name = "strawberry milk" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+                <Item Name = "Salami" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+				<Item Name="PROkamikadze" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name="Book of tails" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name = "Cokacola" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+				<Item Name="Leaky Bucket" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+				<Item Name="Pink straw" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name="Pixelated cube" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Dilirium eye" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Delirious tech" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "vacuum" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name="sandwich" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Rot" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+				<Item Name = "Frozen Flies" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />				
+		</Pool>
+		<Pool Name="ultraSecret">
+		<Item Name="PRObackstabber" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+	    </Pool>
+		<Pool Name="boss">
+	    <Item Name="PROkamikadze" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name = "Salami" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+		<Item Name = "Flower tea" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1"/>
+		<Item Name="sandwich" Weight="1" DecreaseBy="0" RemoveOn="0.1" />
+	    </Pool>
+		<Pool Name="devil">
+		<Item Name = "Deal of the death" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+		<Item Name = "Book of necromancer" Weight = "1" DecreaseBy = "1" RemoveOn = "0.1" />
+		<Item Name = "Siren Horns" Weight = "1" DecreaseBy="1" RemoveOn="0.1" />		
+	    </Pool>
+		<Pool Name="angel">
+		<Item Name="Holy shell" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Curious heart" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Holy master key" Weight = "1" DecreaseBy="1" RemoveOn="0.1"/>
+		</Pool>
+</ItemPools>

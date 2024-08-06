@@ -1,0 +1,17 @@
+<sounds root="sfx/">
+	<sound name="vhs">
+		<sample weight="1" path="vhs.wav" />
+	</sound>
+	<sound name="fountain">
+		<sample weight="1" path="fountain_ambience.wav" />
+	</sound>
+	<sound name="blizz_sound">
+		<sample weight="1" path="wind_export.wav" />
+	</sound>
+	<sound name="siren_sound">
+		<sample weight="1" path="sirenhorns.wav" />
+	</sound>
+	<sound name="lighter_sound">
+		<sample weight="1" path="lighter.wav" />
+	</sound>
+</sounds>
